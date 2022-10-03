@@ -1,0 +1,100 @@
+nav{
+    display: inline;
+    
+}
+body{
+    background-color: green;
+    color: white;
+   
+}
+ ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: forestgreen;
+    overflow: hidden;
+    height: 60px;
+    font-size: 20px;
+}
+
+ li{
+    display: block;
+    color: white;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+
+li a{
+    color: white;
+    text-align: center;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+
+img{
+    margin-left: 60px;
+    height: 60px;
+    width: 150px;
+    float: left;
+}
+
+h1{
+    margin-top: 100px;
+    margin-left: 400px;
+    font-size: 100px;
+}
+.Link{
+    float: right;
+}
+.Link li{
+    background-color: green;
+}
+.Link li a{
+    background-color: rgb(13, 66, 13);
+    
+}
+
+.aap{
+    float: right;
+}
+
+.aap li a {
+    background-color: rgb(13, 66, 13);
+}
+
+#foto{
+    margin-left: 800px;
+    margin-top: -300px;
+    height: 370px;
+    width: 400px;
+}
+#afb{
+    margin-top: -300px;
+    height: 370px;
+    width: 400px;
+}
+h2{
+    margin-left: 850px;
+    margin-bottom: -200px;
+    color: white;
+}
+footer{
+    background-color: rgb(15, 83, 15);
+    margin-top: 500px;
+    height: 480px;
+}
+
+
+
+.h1{
+    float: right;
+}
+.h2{
+    color: lightgreen;
+}
+
+p{
+    font-size: 50px;
+    margin-top: 100px;
+}
