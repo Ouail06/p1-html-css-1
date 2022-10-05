@@ -46,13 +46,18 @@ h1{
 }
 .Link{
     float: right;
+    border-radius: 5px;
+    
 }
 .Link li{
     background-color: green;
+    border-radius: 5px;
+   
 }
 .Link li a{
-    background-color: rgb(13, 66, 13);
-    
+    background-color: yellowgreen;
+    border-radius: 5px;
+    color: black;
 }
 
 .aap{
